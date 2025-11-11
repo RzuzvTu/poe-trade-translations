@@ -44,7 +44,6 @@ def fetch_api(url, max_retries=3):
 
 def build_ggg_stats_translation_map(en_data, tw_data):
     """
-    (來自版本 2)
     使用 GGG API 的 'id' 欄位來建立 'stats' 和 'static' 端點的翻譯地圖。
     """
     en_map = {}
@@ -80,7 +79,6 @@ def build_ggg_stats_translation_map(en_data, tw_data):
 
 def build_repoe_items_translation_map(en_items_dict, zh_items_dict):
     """
-    (來自版本 3)
     使用 RePoE 的 base_items.json 字典 (dict) 建立翻譯地圖。
     """
     translations = {}
@@ -103,7 +101,7 @@ def build_repoe_items_translation_map(en_items_dict, zh_items_dict):
 def main():
 
     print("=" * 60)
-    print("POE Trade Translations English to Chinese (混合策略模式)")
+    print("POE Trade Translations English to Chinese")
     print("=" * 60)
     print()
     
