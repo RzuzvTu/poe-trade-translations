@@ -5,12 +5,16 @@ from datetime import datetime
 import os
 import urllib.parse
 
-# (API 端點和 fetch_api 函式保持不變)
+# --- GGG API 端點 (用於 Stats 和 Static) ---
 EN_GGG_BASE = "https://www.pathofexile.com/api/trade/data"
 TW_GGG_BASE = "https://pathofexile.tw/api/trade/data"
+
+# --- RePoE API 端點 (*** 新增 Uniques ***) ---
 REPOE_URLS = {
     'en_items': "https://repoe-fork.github.io/base_items.json",
-    'zh_items': "https://repoe-fork.github.io/Traditional%20Chinese/base_items.json"
+    'zh_items': "https://repoe-fork.github.io/Traditional%20Chinese/base_items.json",
+    'en_uniques': "https://repoe-fork.github.io/uniques.json",
+    'zh_uniques': "https://repoe-fork.github.io/Traditional%20Chinese/uniques.json"
 }
 
 def fetch_api(url, max_retries=3):
@@ -18,7 +22,9 @@ def fetch_api(url, max_retries=3):
         try:
             decoded_url = urllib.parse.unquote(url)
             print(f"正在請求: {decoded_url}")
-            headers = { 'User-Agent': 'POE-Trade-Translation-Bot/1.0' }
+            headers = {
+                'User-Agent': 'POE-Trade-Translation-Bot/1.0 (Contact: your-email@example.com)'
+            }
             response = requests.get(url, headers=headers, timeout=30)
             response.raise_for_status()
             print(f"成功")
@@ -35,8 +41,12 @@ def fetch_api(url, max_retries=3):
 
 def build_ggg_stats_translation_map(en_data, tw_data):
     en_map, tw_map, translations = {}, {}, {}
-    if not en_data or 'result' not in en_data: return {}
-    if not tw_data or 'result' not in tw_data: return {}
+    if not en_data or 'result' not in en_data:
+        print("警告: 英文 GGG API 資料格式不正確，已跳過 stats。")
+        return {}
+    if not tw_data or 'result' not in tw_data:
+        print("警告: 中文 GGG API 資料格式不正確，已跳過 stats。")
+        return {}
     
     for category in en_data['result']:
         if 'entries' in category:
@@ -62,55 +72,82 @@ def build_ggg_stats_translation_map(en_data, tw_data):
                 
     return translations
 
-def build_repoe_items_translation_map(en_items_dict, zh_items_dict):
+def build_repoe_translation_map(en_items_dict, zh_items_dict, item_type_name):
     translations = {}
-    print(f"Items: 找到 {len(en_items_dict)} 個英文項目, {len(zh_items_dict)} 個中文項目")
+    if not en_items_dict or not isinstance(en_items_dict, dict):
+        print(f"警告: 英文 RePoE {item_type_name} 資料格式不正確，已跳過。")
+        return {}
+    if not zh_items_dict or not isinstance(zh_items_dict, dict):
+        print(f"警告: 中文 RePoE {item_type_name} 資料格式不正確，已跳過。")
+        return {}
+
+    print(f"{item_type_name}: 找到 {len(en_items_dict)} 個英文項目, {len(zh_items_dict)} 個中文項目")
     for item_id, en_data in en_items_dict.items():
+        if not isinstance(en_data, dict): continue 
+        
         en_name = en_data.get('name')
+        
         if item_id in zh_items_dict:
-            zh_name = zh_items_dict[item_id].get('name')
+            zh_data = zh_items_dict[item_id]
+            if not isinstance(zh_data, dict): continue 
+            
+            # RePoE 的 uniques.json 中文檔案可能沒有 'name'，而是 'translations'
+            zh_name = zh_data.get('name')
+            if not zh_name and 'translations' in zh_data:
+                zh_name = zh_data['translations'].get('zh-TW')
+
             if en_name and zh_name and en_name.strip() and zh_name.strip() and en_name != zh_name:
                 translations[en_name] = zh_name
                 
     return translations
 
+
 def main():
     print("=" * 60)
-    print("POE Trade Translations (英->中 和 中->英)")
+    print("POE Trade Translations (產生 英->中 和 中->英)")
     print("=" * 60)
     
     all_translations_en_to_zh = {}
     
     try:
         for endpoint in ['stats', 'static']:
-            print(f"\n處理 GGG API {endpoint}...")
-            en_url, tw_url = f"{EN_GGG_BASE}/{endpoint}", f"{TW_GGG_BASE}/{endpoint}"
+            print(f"\n處理 GGG API {endpoint} (ID 配對)...")
+            en_url = f"{EN_GGG_BASE}/{endpoint}"
+            tw_url = f"{TW_GGG_BASE}/{endpoint}"
             en_data, tw_data = fetch_api(en_url), fetch_api(tw_url)
             stats_translations = build_ggg_stats_translation_map(en_data, tw_data)
             print(f"建立了 {len(stats_translations)} 個翻譯項目 (來自 {endpoint})")
             all_translations_en_to_zh.update(stats_translations)
             
-        print(f"\n處理 RePoE Items...")
+        print(f"\n處理 RePoE Base Items (ID 配對)...")
         en_items_data = fetch_api(REPOE_URLS['en_items'])
         zh_items_data = fetch_api(REPOE_URLS['zh_items'])
-        item_translations = build_repoe_items_translation_map(en_items_data, zh_items_data)
-        print(f"建立了 {len(item_translations)} 個翻譯項目 (來自 RePoE items)")
+        item_translations = build_repoe_translation_map(en_items_data, zh_items_data, "Base Items")
+        print(f"建立了 {len(item_translations)} 個翻譯項目 (來自 RePoE Base Items)")
         all_translations_en_to_zh.update(item_translations)
 
+        print(f"\n處理 RePoE Uniques (ID 配對)...")
+        en_uniques_data = fetch_api(REPOE_URLS['en_uniques'])
+        zh_uniques_data = fetch_api(REPOE_URLS['zh_uniques'])
+        unique_translations = build_repoe_translation_map(en_uniques_data, zh_uniques_data, "Uniques")
+        print(f"建立了 {len(unique_translations)} 個翻譯項目 (來自 RePoE Uniques)")
+        all_translations_en_to_zh.update(unique_translations)
+
+
     except Exception as e:
-        print(f"\n處理過程中發生嚴重錯誤: {e}")
-        return
+        print(f"\n" + "!" * 60)
+        print(f"處理過程中發生嚴重錯誤: {e}")
+        print("!" * 60)
+        return 
 
     print("\n" + "=" * 60)
-    print("步驟 3: 產生正向與反向字典...")
+    print("步驟 4: 產生正向與反向字典...")
     
     os.makedirs('translations', exist_ok=True)
     
-    # 1. 產生正向字典 (英 -> 中)
     sorted_en_to_zh = dict(sorted(all_translations_en_to_zh.items()))
     print(f"總共建立了 {len(sorted_en_to_zh)} 個 (英->中) 翻譯項目")
     
-    # 2. 產生反向字典 (中 -> 英)
     all_translations_zh_to_en = {}
     for en, zh in all_translations_en_to_zh.items():
         if zh and zh.strip():
@@ -138,14 +175,6 @@ def main():
     with open('translations/latest_reverse.json', 'w', encoding='utf-8') as f:
         json.dump(output_zh_to_en, f, ensure_ascii=False, indent=2)
     print("✓ 已儲存到 translations/latest_reverse.json")
-
-    version_info = {
-        "version": version_str, "updateTime": time_str,
-        "count": len(sorted_en_to_zh)
-    }
-    with open('translations/version.json', 'w', encoding='utf-8') as f:
-        json.dump(version_info, f, ensure_ascii=False, indent=2)
-    print("已儲存版本資訊到 translations/version.json")
     
     print("\n完成！")
 
