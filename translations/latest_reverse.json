@@ -1,6 +1,6 @@
 {
-  "version": "20251116_010751",
-  "updateTime": "2025-11-16T01:07:51.793364",
+  "version": "20251117_010433",
+  "updateTime": "2025-11-17T01:04:33.652479",
   "count": 16608,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
@@ -8040,6 +8040,7 @@
     "插槽中的寶石被等級 # 的 分裂 輔助": "Socketed Gems are Supported by Level # Fork",
     "插槽中的寶石被等級 # 的 創傷 輔助": "Socketed Gems are Supported by Level # Trauma",
     "插槽中的寶石被等級 # 的 力量紊亂 輔助": "Socketed Gems are Supported by Level # Kinetic Instability",
+    "插槽中的寶石被等級 # 的 召喚物速度 輔助": "Socketed Gems are Supported by Level # Minion Speed",
     "插槽中的寶石被等級 # 的 和善 輔助": "Socketed Gems are Supported by Level # Generosity",
     "插槽中的寶石被等級 # 的 咒術綻放 輔助": "Socketed Gems are Supported by Level # Hex Bloom",
     "插槽中的寶石被等級 # 的 嗜血 輔助": "Socketed Gems are Supported by Level # Bloodthirst",
@@ -9328,7 +9329,6 @@
     "此武器進行的攻擊穿透 #% 元素抗性": "Attacks with this Weapon Penetrate #% Elemental Resistances",
     "此物品上寶石受到等級 # 的元素傷害攻擊輔助": "Socketed Gems are supported by Level # Elemental Damage with Attacks",
     "此物品上寶石受到等級 # 的召喚物傷害輔助": "Socketed Gems are Supported by Level # Minion Damage",
-    "此物品上寶石受到等級 # 的召喚物速度輔助": "Socketed Gems are Supported by Level # Minion Speed",
     "此物品上寶石受到等級 # 的多重陷阱輔助": "Socketed Gems are Supported by Level # Multiple Traps",
     "此物品上寶石受到等級 # 的散彈陷阱輔助": "Socketed Gems are Supported by Level # Cluster Trap",
     "此物品上寶石受到等級 # 的暴擊時施放輔助": "Socketed Gems are supported by Level # Cast On Critical Strike",

@@ -1,6 +1,6 @@
 {
-  "version": "20251116_010751",
-  "updateTime": "2025-11-16T01:07:51.793364",
+  "version": "20251117_010433",
+  "updateTime": "2025-11-17T01:04:33.652479",
   "count": 16648,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
@@ -13342,7 +13342,7 @@
     "Socketed Gems are Supported by Level # Minefield": "插槽中的寶石被等級 # 的 地雷網 輔助",
     "Socketed Gems are Supported by Level # Minion Damage": "此物品上寶石受到等級 # 的召喚物傷害輔助",
     "Socketed Gems are Supported by Level # Minion Life": "插槽中寶石被等級 # 的召喚物生命輔助",
-    "Socketed Gems are Supported by Level # Minion Speed": "此物品上寶石受到等級 # 的召喚物速度輔助",
+    "Socketed Gems are Supported by Level # Minion Speed": "插槽中的寶石被等級 # 的 召喚物速度 輔助",
     "Socketed Gems are Supported by Level # Mirage Archer": "插槽中寶石被等級 # 的幻影射手輔助",
     "Socketed Gems are Supported by Level # Momentum": "插槽中寶石被等級 # 的氣勢輔助",
     "Socketed Gems are Supported by Level # More Duration": "插槽中寶石被等級 # 的持續時間延長輔助",
