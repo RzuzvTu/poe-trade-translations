@@ -1,6 +1,6 @@
 {
-  "version": "20251119_010304",
-  "updateTime": "2025-11-19T01:03:04.413998",
+  "version": "20251120_010159",
+  "updateTime": "2025-11-20T01:01:59.597585",
   "count": 16648,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
@@ -13295,7 +13295,7 @@
     "Socketed Gems are Supported by Level # Fork": "插槽中的寶石被等級 # 的 分裂 輔助",
     "Socketed Gems are Supported by Level # Fortify": "此物品插槽中寶石受到等級 # 的護體輔助",
     "Socketed Gems are Supported by Level # Fresh Meat": "插槽中寶石被等級 # 的鮮肉輔助",
-    "Socketed Gems are Supported by Level # Frigid Bond": "插槽中寶石被等級 # 的酷寒之繫輔助",
+    "Socketed Gems are Supported by Level # Frigid Bond": "插槽中的寶石被等級 # 的 冰寒之繫 輔助",
     "Socketed Gems are Supported by Level # Generosity": "插槽中的寶石被等級 # 的 和善 輔助",
     "Socketed Gems are Supported by Level # Greater Multiple Projectiles": "插槽中寶石被等級 # 的高階多重投射輔助",
     "Socketed Gems are Supported by Level # Greater Spell Echo": "插槽中寶石被等級 # 的高階施放迴響輔助",
