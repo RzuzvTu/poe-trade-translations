@@ -1,7 +1,7 @@
 {
-  "version": "20251212_010717",
-  "updateTime": "2025-12-12T01:07:17.024958",
-  "count": 16648,
+  "version": "20251213_010255",
+  "updateTime": "2025-12-13T01:02:55.211381",
+  "count": 16650,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -11074,6 +11074,7 @@
     "Non-Instant Warcries ignore their Cooldown when Used": "非瞬發的戰吼在使用時會忽略其冷卻時間",
     "Non-Unique Equipment found in Area drops as Currency instead": "此區域掉落的非傳奇裝備改為掉落通貨",
     "Non-Unique Heist Contracts found in your Maps have #% chance to have an additional Implicit Modifier": "你地圖中掉落的非傳奇劫盜契約書有 #% 機率有 1 個額外固定詞綴",
+    "Non-Unique Monsters (Blood-Filled Vessel): #": "非傳奇怪物(浸血碑器): #",
     "Non-Unique Utility Flasks you Use apply to Linked Targets": "你使用的非傳奇功能藥劑，套用至連結的目標",
     "Non-Vaal Strike Skills target # additional nearby Enemy": "非瓦爾打擊技能瞄準 # 額外附近敵人",
     "Non-critical strikes deal #% more Damage": "非暴擊造成 #% 更多傷害",
@@ -15054,6 +15055,7 @@
     "Unique Crucible Monsters have #% chance to drop a Unique Melee Weapon": "傳奇熔火怪物有 #% 機率掉落 1 個傳奇近戰武器",
     "Unique Crucible Monsters have #% chance to drop a Unique Ranged Weapon": "傳奇熔火怪物有 #% 機率掉落 1 個傳奇遠程武器",
     "Unique Crucible Monsters have #% chance to drop a Unique Shield": "傳奇熔火怪物有 #% 機率掉落 1 個傳奇盾牌",
+    "Unique Monsters (Blood-Filled Vessel): #": "傳奇怪物(浸血碑器): #",
     "Unique Monsters drop Corrupted Items": "傳奇頭目掉落腐化物品",
     "Unique Monsters from Beyond have a #% chance to Summon\nanother Unique Monster from Beyond when Slain": "超越頭目死後有 #% 機率召喚超越頭目",
     "Unique Monsters have a random Shrine Buff": "傳奇怪物有 1 個隨機神殿效果",

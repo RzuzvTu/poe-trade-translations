@@ -1,7 +1,7 @@
 {
-  "version": "20251212_010717",
-  "updateTime": "2025-12-12T01:07:17.024958",
-  "count": 16608,
+  "version": "20251213_010255",
+  "updateTime": "2025-12-13T01:02:55.211381",
+  "count": 16610,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -2497,6 +2497,7 @@
     "傲貓姣捷的持續時間 +# 秒": "+# seconds to Cat's Agility Duration",
     "傲貓祝福無保留": "Aspect of the Cat has no Reservation",
     "傳喚": "The Calling",
+    "傳奇怪物(浸血碑器): #": "Unique Monsters (Blood-Filled Vessel): #",
     "傳奇怪物掉落的物品有 #% 機率為已汙染": "Items dropped by Unique Monsters have #% chance to be Corrupted",
     "傳奇怪物有 1 個隨機神殿效果": "Unique Monsters have a random Shrine Buff",
     "傳奇戰士．賈嫚拉": "Jamanra, the Legendary Warrior",
@@ -16208,6 +16209,7 @@
     "靜縊陵墓": "Mausoleum Map",
     "靜電之源": "Static Electricity",
     "靜電鎖鏈": "Static Tether",
+    "非傳奇怪物(浸血碑器): #": "Non-Unique Monsters (Blood-Filled Vessel): #",
     "非光環咒術在到達 #% 基礎效果時失效": "Non-Aura Hexes expire upon reaching #% of base Effect",
     "非光環瓦爾技能效果持續時間每次使用減少 #% 需要靈魂": "Non-Aura Vaal Skills require #% reduced Souls Per Use during Effect",
     "非光環瓦爾技能每次使用減少 #% 靈魂需求": "Non-Aura Vaal Skills require #% reduced Souls Per Use",
