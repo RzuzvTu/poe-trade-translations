@@ -1,7 +1,7 @@
 {
-  "version": "20251217_010259",
-  "updateTime": "2025-12-17T01:02:59.310868",
-  "count": 16610,
+  "version": "20251218_010410",
+  "updateTime": "2025-12-18T01:04:10.434783",
+  "count": 16611,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -9369,6 +9369,7 @@
     "此物品插槽中寶石被等級 # 覺醒．猛毒投射物輔助": "Socketed Gems are Supported by Level # Awakened Vicious Projectiles",
     "此物品插槽中寶石被等級 # 覺醒．秘能爆發輔助": "Socketed Gems are Supported by Level # Awakened Spell Cascade",
     "此物品插槽中寶石被等級 # 覺醒．精準破壞輔助": "Socketed Gems are Supported by Level # Awakened Controlled Destruction",
+    "此物品插槽中寶石被等級 # 覺醒．虛空操縱輔助": "Socketed Gems are Supported by Level # Awakened Void Manipulation",
     "此物品插槽中寶石被等級 # 覺醒．賦予輔助": "Socketed Gems are Supported by Level # Awakened Empower",
     "此物品插槽中寶石被等級 # 覺醒．近戰傷害擴散輔助": "Socketed Gems are Supported by Level # Awakened Melee Splash",
     "此物品插槽中寶石被等級 # 覺醒．近戰物理傷害輔助": "Socketed Gems are Supported by Level # Awakened Melee Physical Damage",
