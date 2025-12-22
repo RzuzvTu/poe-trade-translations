@@ -1,6 +1,6 @@
 {
-  "version": "20251221_011134",
-  "updateTime": "2025-12-21T01:11:34.076260",
+  "version": "20251222_011010",
+  "updateTime": "2025-12-22T01:10:10.716919",
   "count": 16611,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
@@ -7880,7 +7880,6 @@
     "插槽中寶石被等級 # 的腐化輔助": "Socketed Gems are Supported by Level # Decay",
     "插槽中寶石被等級 # 的致命異常輔助": "Socketed Gems are Supported by Level # Deadly Ailments",
     "插槽中寶石被等級 # 的致盲輔助": "Socketed Gems are supported by Level # Blind",
-    "插槽中寶石被等級 # 的虐待輔助": "Socketed Gems are Supported by Level # Sadism",
     "插槽中寶石被等級 # 的虛空操縱輔助": "Socketed Gems are Supported by Level # Void Manipulation",
     "插槽中寶石被等級 # 的賦予輔助": "Socketed Gems are Supported by Level # Empower",
     "插槽中寶石被等級 # 的超負荷輔助": "Socketed Gems are Supported by Level # Overcharge",
@@ -8095,6 +8094,7 @@
     "插槽中的寶石被等級 # 的 聖潔妖精 輔助": "Socketed Gems are Supported by Level # Sacred Wisps",
     "插槽中的寶石被等級 # 的 肉盾 輔助": "Socketed Gems are Supported by Level # Meat Shield",
     "插槽中的寶石被等級 # 的 致盲 輔助": "Socketed Gems are Supported by Level # Blind",
+    "插槽中的寶石被等級 # 的 虐待 輔助": "Socketed Gems are Supported by Level # Sadism",
     "插槽中的寶石被等級 # 的 詛咒光環 輔助": "Socketed Gems are Supported by Level # Blasphemy",
     "插槽中的寶石被等級 # 的 詛咒地面 輔助": "Socketed Gems are Supported by Level # Cursed Ground",
     "插槽中的寶石被等級 # 的 豢養狂熱 輔助": "Socketed Gems are Supported by Level # Feeding Frenzy",
