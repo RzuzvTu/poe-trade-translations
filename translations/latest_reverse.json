@@ -1,6 +1,6 @@
 {
-  "version": "20251225_010653",
-  "updateTime": "2025-12-25T01:06:53.489995",
+  "version": "20251226_010709",
+  "updateTime": "2025-12-26T01:07:09.426261",
   "count": 16611,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
@@ -7904,7 +7904,6 @@
     "插槽中寶石被等級 # 的高階施放迴響輔助": "Socketed Gems are Supported by Level # Greater Spell Echo",
     "插槽中寶石被等級 # 的魔力偷取輔助": "Socketed Gems are Supported by Level # Mana Leech",
     "插槽中寶石被等級 # 的魔幻輔助": "Socketed Gems are Supported by Level # Archmage",
-    "插槽中寶石被等級 # 的魔造箭矢輔助": "Socketed Gems are Supported by Level # Manaforged Arrows",
     "插槽中寶石被等級 # 的鮮肉輔助": "Socketed Gems are Supported by Level # Fresh Meat",
     "插槽中寶石被等級 # 的齊射輔助": "Socketed Gems are Supported by Level # Volley",
     "插槽中寶石被等級 # 精準破壞輔助": "Socketed Gems are Supported by Level # Controlled Destruction",
@@ -8115,6 +8114,7 @@
     "插槽中的寶石被等級 # 的 高能地雷 輔助": "Socketed Gems are Supported by Level # High-Impact Mine",
     "插槽中的寶石被等級 # 的 高階齊射 輔助": "Socketed Gems are Supported by Level # Greater Volley",
     "插槽中的寶石被等級 # 的 魔刃 輔助": "Socketed Gems are Supported by Level # Spellblade",
+    "插槽中的寶石被等級 # 的 魔改箭矢 輔助": "Socketed Gems are Supported by Level # Manaforged Arrows",
     "插槽中的寶石被等級 # 的 點燃擴散 輔助": "Socketed Gems are Supported by Level # Ignite Proliferation",
     "插槽中的寶石被等級 # 的亢奮輔助": "Socketed Gems are Supported by Level # Innervate",
     "插槽中的寶石被等級 # 的機率流血輔助": "Socketed Gems are supported by Level # Chance to Bleed",
