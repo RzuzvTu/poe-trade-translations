@@ -1,6 +1,6 @@
 {
-  "version": "20260218_012652",
-  "updateTime": "2026-02-18T01:26:52.545182",
+  "version": "20260219_012558",
+  "updateTime": "2026-02-19T01:25:58.218869",
   "count": 16660,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
@@ -7888,7 +7888,6 @@
     "插槽中寶石被等級 # 的暈眩時施放輔助": "Socketed Gems are supported by Level # Cast when Stunned",
     "插槽中寶石被等級 # 的暈眩輔助": "Socketed Gems are supported by Level # Stun",
     "插槽中寶石被等級 # 的暴擊獲得暴擊球輔助": "Socketed Gems are Supported by Level # Power Charge On Critical Strike",
-    "插槽中寶石被等級 # 的末日厄運輔助": "Socketed Gems are Supported by Level # Impending Doom",
     "插槽中寶石被等級 # 的極速苦痛輔助": "Socketed Gems are Supported by Level # Swift Affliction",
     "插槽中寶石被等級 # 的機率中毒輔助": "Socketed Gems are Supported by Level # Chance to Poison",
     "插槽中寶石被等級 # 的機率流血輔助": "Socketed Gems are Supported by Level # Chance To Bleed",
@@ -8104,6 +8103,7 @@
     "插槽中的寶石被等級 # 的 暴擊時施放 輔助": "Socketed Gems are Supported by Level # Cast On Critical Strike",
     "插槽中的寶石被等級 # 的 暴擊獲得暴擊球 輔助": "Socketed Gems are Supported by Level # Power Charge On Critical",
     "插槽中的寶石被等級 # 的 暴擊苦痛 輔助": "Socketed Gems are Supported by Level # Critical Strike Affliction",
+    "插槽中的寶石被等級 # 的 末日厄運 輔助": "Socketed Gems are Supported by Level # Impending Doom",
     "插槽中的寶石被等級 # 的 機率流血 輔助": "Socketed Gems are Supported by Level # Chance to Bleed",
     "插槽中的寶石被等級 # 的 機率逃跑 輔助": "Socketed Gems are Supported by Level # Chance to Flee",
     "插槽中的寶石被等級 # 的 死亡時施放 輔助": "Socketed Gems are Supported by Level # Cast on Death",

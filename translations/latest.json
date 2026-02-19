@@ -1,6 +1,6 @@
 {
-  "version": "20260218_012652",
-  "updateTime": "2026-02-18T01:26:52.545182",
+  "version": "20260219_012558",
+  "updateTime": "2026-02-19T01:25:58.218869",
   "count": 16697,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
@@ -13350,7 +13350,7 @@
     "Socketed Gems are Supported by Level # Ignite Proliferation": "插槽中的寶石被等級 # 的 點燃擴散 輔助",
     "Socketed Gems are Supported by Level # Immolate": "插槽中寶石被等級 # 的犧牲輔助",
     "Socketed Gems are Supported by Level # Impale": "插槽中寶石被等級 # 的穿刺輔助",
-    "Socketed Gems are Supported by Level # Impending Doom": "插槽中寶石被等級 # 的末日厄運輔助",
+    "Socketed Gems are Supported by Level # Impending Doom": "插槽中的寶石被等級 # 的 末日厄運 輔助",
     "Socketed Gems are Supported by Level # Increased Area of Effect": "插槽中寶石被等級 # 的增大範圍輔助",
     "Socketed Gems are Supported by Level # Increased Critical Damage": "插槽中的寶石被等級 # 的 增加暴擊傷害 輔助",
     "Socketed Gems are Supported by Level # Increased Critical Strikes": "插槽中寶石被等級 # 的增加暴擊率輔助",
