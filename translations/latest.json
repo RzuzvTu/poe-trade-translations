@@ -1,7 +1,7 @@
 {
-  "version": "20260313_012236",
-  "updateTime": "2026-03-13T01:22:36.990537",
-  "count": 16999,
+  "version": "20260314_012050",
+  "updateTime": "2026-03-14T01:20:50.769797",
+  "count": 17000,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -14167,6 +14167,7 @@
     "Supported by Level 1 Chance to Flee": "被等級1的機率逃跑輔助",
     "Supported by Level 1 Chance to Poison": "被等級1的機率中毒輔助",
     "Supported by Level 1 Charged Mines": "被等級1的地雷充能輔助",
+    "Supported by Level 1 Charged Traps": "被等級1的陷阱充能輔助",
     "Supported by Level 1 Close Combat": "被等級1的近身戰輔助",
     "Supported by Level 1 Cluster Traps": "被等級1的散彈陷阱輔助",
     "Supported by Level 1 Cold Penetration": "被等級1的冰冷穿透輔助",

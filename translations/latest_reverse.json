@@ -1,7 +1,7 @@
 {
-  "version": "20260313_012236",
-  "updateTime": "2026-03-13T01:22:36.990537",
-  "count": 16961,
+  "version": "20260314_012050",
+  "updateTime": "2026-03-14T01:20:50.769797",
+  "count": 16962,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -14481,6 +14481,7 @@
     "被等級1的附加混沌傷害輔助": "Supported by Level 1 Added Chaos Damage",
     "被等級1的附加火焰傷害輔助": "Supported by Level 1 Added Fire Damage",
     "被等級1的附加閃電傷害輔助": "Supported by Level 1 Added Lightning Damage",
+    "被等級1的陷阱充能輔助": "Supported by Level 1 Charged Traps",
     "被等級1的陷阱及地雷傷害輔助": "Supported by Level 1 Trap and Mine Damage",
     "被等級1的陷阱輔助": "Supported by Level 1 Trap",
     "被等級1的集中效應輔助": "Supported by Level 1 Concentrated Effect",
