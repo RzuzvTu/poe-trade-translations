@@ -1,7 +1,7 @@
 {
-  "version": "20260317_012428",
-  "updateTime": "2026-03-17T01:24:28.480768",
-  "count": 16965,
+  "version": "20260318_012735",
+  "updateTime": "2026-03-18T01:27:35.103914",
+  "count": 16966,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -14363,6 +14363,7 @@
     "被等級1的召喚物速度輔助": "Supported by Level 1 Minion Speed",
     "被等級1的吞噬輔助": "Supported by Level 1 Devour",
     "被等級1的和善輔助": "Supported by Level 1 Generosity",
+    "被等級1的咒術綻放輔助": "Supported by Level 1 Hex Bloom",
     "被等級1的咒術降臨輔助": "Supported by Level 1 Hextouch",
     "被等級1的啟發輔助": "Supported by Level 1 Inspiration",
     "被等級1的嗜血輔助": "Supported by Level 1 Bloodlust",

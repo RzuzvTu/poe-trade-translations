@@ -1,7 +1,7 @@
 {
-  "version": "20260317_012428",
-  "updateTime": "2026-03-17T01:24:28.480768",
-  "count": 17003,
+  "version": "20260318_012735",
+  "updateTime": "2026-03-18T01:27:35.103914",
+  "count": 17004,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -14213,6 +14213,7 @@
     "Supported by Level 1 Greater Volley": "被等級1的高階齊射輔助",
     "Supported by Level 1 Guardian's Blessing": "被等級1的守護者的祝福輔助",
     "Supported by Level 1 Hallow": "被等級1的聖徒輔助",
+    "Supported by Level 1 Hex Bloom": "被等級1的咒術綻放輔助",
     "Supported by Level 1 Hextouch": "被等級1的咒術降臨輔助",
     "Supported by Level 1 High-Impact Mine": "被等級1的高能地雷輔助",
     "Supported by Level 1 Hypothermia": "被等級1的急凍輔助",
