@@ -1,7 +1,7 @@
 {
-  "version": "20260320_012327",
-  "updateTime": "2026-03-20T01:23:27.337080",
-  "count": 17007,
+  "version": "20260321_011844",
+  "updateTime": "2026-03-21T01:18:44.796470",
+  "count": 17008,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -14151,6 +14151,7 @@
     "Supported by Level 1 Ballista Totem": "被等級1的砲塔圖騰輔助",
     "Supported by Level 1 Barrage": "被等級1的彈幕輔助",
     "Supported by Level 1 Behead": "被等級1的斬首輔助",
+    "Supported by Level 1 Blasphemy": "被等級1的詛咒光環輔助",
     "Supported by Level 1 Blastchain Mine": "被等級1的連鎖爆破地雷輔助",
     "Supported by Level 1 Blessed Call": "被等級1的禮贈呼喚輔助",
     "Supported by Level 1 Blind": "被等級1的致盲輔助",
