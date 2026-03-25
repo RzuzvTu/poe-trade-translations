@@ -1,6 +1,6 @@
 {
-  "version": "20260324_012203",
-  "updateTime": "2026-03-24T01:22:03.449823",
+  "version": "20260325_012626",
+  "updateTime": "2026-03-25T01:26:26.084754",
   "count": 16970,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
@@ -14820,13 +14820,13 @@
     "譫妄獎勵類型：武器 (×#)": "Delirium Reward Type: Weapons (×#)",
     "譫妄獎勵類型：深淵之物 (×#)": "Delirium Reward Type: Abyss Items (×#)",
     "譫妄獎勵類型：碎片 (×#)": "Delirium Reward Type: Fragments (×#)",
+    "譫妄獎勵類型：神諭之物 (×#)": "Delirium Reward Type: Currency (×#)",
     "譫妄獎勵類型：精髓 (×#)": "Delirium Reward Type: Essences (×#)",
     "譫妄獎勵類型：聖甲蟲 (×#)": "Delirium Reward Type: Scarabs (×#)",
     "譫妄獎勵類型：裂痕之物 (×#)": "Delirium Reward Type: Breach Items (×#)",
     "譫妄獎勵類型：譫妄 (×#)": "Delirium Reward Type: Delirium (×#)",
     "譫妄獎勵類型：護甲 (×#)": "Delirium Reward Type: Armour (×#)",
     "譫妄獎勵類型：迷宮之物 (×#)": "Delirium Reward Type: Labyrinth Items (×#)",
-    "譫妄獎勵類型：通貨 (×#)": "Delirium Reward Type: Currency (×#)",
     "譫妄獎勵類型：飾品 (×#)": "Delirium Reward Type: Jewellery (×#)",
     "譫妄獎勵類型：魔符 (×#)": "Delirium Reward Type: Talismans (×#)",
     "譫妄玉": "Delirium Orb",
