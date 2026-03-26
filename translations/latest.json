@@ -1,7 +1,7 @@
 {
-  "version": "20260325_012626",
-  "updateTime": "2026-03-25T01:26:26.084754",
-  "count": 17008,
+  "version": "20260326_014528",
+  "updateTime": "2026-03-26T01:45:28.389755",
+  "count": 17009,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -6545,7 +6545,7 @@
     "Commanded leadership over # warriors under Akoya": "阿寇亞指揮領導超過 # 戰士",
     "Commanded leadership over # warriors under Kaom": "岡姆指揮領導超過 # 戰士",
     "Commanded leadership over # warriors under Kiloava": "基洛瓦指揮領導超過 # 戰士",
-    "Commanded leadership over # warriors under Rakiata": "拉其塔指揮領導超過 # 戰士",
+    "Commanded leadership over # warriors under Rakiata": "萊基亞塔指揮領導超過 # 戰士",
     "Commander's Brigandine": "指揮者鎖甲",
     "Commissioned # coins to commemorate Cadiro": "授銜 # 個硬幣以紀念卡迪羅",
     "Commissioned # coins to commemorate Caspiro": "授銜 # 個硬幣以紀念卡斯皮羅",
@@ -15947,6 +15947,7 @@
     "While a Pinnacle Atlas Boss is in your Presence, #% of Chaos Damage Leeched as Life": "在巔峰頭目面前時，#% 混沌傷害偷取生命",
     "While a Pinnacle Atlas Boss is in your Presence, #% of Cold Damage Leeched as Life": "在巔峰頭目面前時，#% 冰冷傷害偷取生命",
     "While a Pinnacle Atlas Boss is in your Presence, #% of Cold Damage taken Recouped as Life": "在巔峰頭目面前時，#% 承受的冰冷傷害補償為生命",
+    "While a Pinnacle Atlas Boss is in your Presence, #% of Damage from your Hits cannot be Reflected": "在巔峰頭目面前時，你擊中所造成的#%傷害無法被反射",
     "While a Pinnacle Atlas Boss is in your Presence, #% of Damage is taken from Mana before Life": "在巔峰頭目面前時，生命值所受的 #% 傷害由魔力扣除",
     "While a Pinnacle Atlas Boss is in your Presence, #% of Damage taken Recouped as Life": "在巔峰頭目面前時，承受 #% 傷害補償為生命",
     "While a Pinnacle Atlas Boss is in your Presence, #% of Fire Damage Leeched as Life": "在巔峰頭目面前時，#% 火焰傷害偷取生命",
