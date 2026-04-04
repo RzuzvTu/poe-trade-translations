@@ -1,7 +1,7 @@
 {
-  "version": "20260403_014505",
-  "updateTime": "2026-04-03T01:45:05.441100",
-  "count": 16971,
+  "version": "20260404_012642",
+  "updateTime": "2026-04-04T01:26:42.582812",
+  "count": 16972,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -14358,6 +14358,7 @@
     "被等級1的先祖怒嚎輔助": "Supported by Level 1 Ancestral Call",
     "被等級1的典範輔助": "Supported by Level 1 Exemplar",
     "被等級1的冰冷穿透輔助": "Supported by Level 1 Cold Penetration",
+    "被等級1的冰寒之繫輔助": "Supported by Level 1 Frigid Bond",
     "被等級1的凋零之觸輔助": "Supported by Level 1 Withering Touch",
     "被等級1的分裂輔助": "Supported by Level 1 Fork",
     "被等級1的創傷輔助": "Supported by Level 1 Trauma",

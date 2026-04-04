@@ -1,7 +1,7 @@
 {
-  "version": "20260403_014505",
-  "updateTime": "2026-04-03T01:45:05.441100",
-  "count": 17009,
+  "version": "20260404_012642",
+  "updateTime": "2026-04-04T01:26:42.582812",
+  "count": 17010,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -14210,6 +14210,7 @@
     "Supported by Level 1 Fork": "被等級1的分裂輔助",
     "Supported by Level 1 Fortify": "被等級1的護體輔助",
     "Supported by Level 1 Fresh Meat": "被等級1的鮮肉輔助",
+    "Supported by Level 1 Frigid Bond": "被等級1的冰寒之繫輔助",
     "Supported by Level 1 Generosity": "被等級1的和善輔助",
     "Supported by Level 1 Greater Multiple Projectiles": "被等級1的高階多重投射輔助",
     "Supported by Level 1 Greater Volley": "被等級1的高階齊射輔助",
