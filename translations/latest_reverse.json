@@ -1,7 +1,7 @@
 {
-  "version": "20260413_015904",
-  "updateTime": "2026-04-13T01:59:04.493485",
-  "count": 16972,
+  "version": "20260414_015351",
+  "updateTime": "2026-04-14T01:53:51.574654",
+  "count": 16973,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -8263,6 +8263,7 @@
     "插槽中的寶石被等級 30 的注入引導輔助 (階級 1)": "Socketed Gems are Supported by Level 30 Infused Channelling (Tier 1)",
     "插槽中的寶石被等級 30 的釋放輔助 (階級 1)": "Socketed Gems are Supported by Level 30 Unleash (Tier 1)",
     "插槽中的寶石被等級#的多重投射物輔助": "Socketed Gems are Supported by Level # Multiple Projectiles",
+    "插槽中的寶石被等級#的聖潔守望輔助": "Socketed Gems are Supported by Level # Divine Sentinel",
     "插槽中的寶石被等級#的高階秘能爆發輔助": "Socketed Gems are Supported by Level # Greater Spell Cascade",
     "插槽中的寶石被等級10的多重投射物輔助 (階級 1)": "Socketed Gems are Supported by Level 10 Multiple Projectiles (Tier 1)",
     "插槽中的寶石被等級1的高階施放回響輔助": "Socketed Gems are Supported by Level 1 Greater Spell Echo",

@@ -1,7 +1,7 @@
 {
-  "version": "20260413_015904",
-  "updateTime": "2026-04-13T01:59:04.493485",
-  "count": 17010,
+  "version": "20260414_015351",
+  "updateTime": "2026-04-14T01:53:51.574654",
+  "count": 17011,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -13442,6 +13442,7 @@
     "Socketed Gems are Supported by Level # Decay": "插槽中寶石被等級 # 的腐化輔助",
     "Socketed Gems are Supported by Level # Devour": "插槽中寶石被等級 # 的吞噬輔助",
     "Socketed Gems are Supported by Level # Divine Blessing": "插槽中寶石被等級 # 的神聖祝福輔助",
+    "Socketed Gems are Supported by Level # Divine Sentinel": "插槽中的寶石被等級#的聖潔守望輔助",
     "Socketed Gems are Supported by Level # Efficacy": "插槽中寶石被等級 # 的效能輔助",
     "Socketed Gems are Supported by Level # Elemental Army": "插槽中的寶石被等級 # 的 元素軍隊 輔助",
     "Socketed Gems are Supported by Level # Elemental Army Support": "插槽中寶石被等級 # 的元素軍隊輔助",
