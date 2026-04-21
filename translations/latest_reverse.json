@@ -1,6 +1,6 @@
 {
-  "version": "20260420_015939",
-  "updateTime": "2026-04-20T01:59:39.324915",
+  "version": "20260421_015510",
+  "updateTime": "2026-04-21T01:55:10.577401",
   "count": 16973,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
@@ -8024,7 +8024,6 @@
     "插槽中寶石被等級 # 的近身戰輔助": "Socketed Gems are Supported by Level # Close Combat",
     "插槽中寶石被等級 # 的返回投射物輔助": "Socketed Gems are Supported by Level # Returning Projectiles",
     "插槽中寶石被等級 # 的連鎖輔助": "Socketed Gems are Supported by Level # Chain",
-    "插槽中寶石被等級 # 的酷寒之繫輔助": "Socketed Gems are Supported by Level # Frigid Bond",
     "插槽中寶石被等級 # 的閃電穿透輔助": "Socketed Gems are Supported by Level # Lightning Penetration",
     "插槽中寶石被等級 # 的附加冰冷傷害輔助": "Socketed Gems are Supported by Level # Added Cold Damage",
     "插槽中寶石被等級 # 的附加混沌傷害輔助": "Socketed Gems are Supported by Level # Added Chaos Damage",
@@ -8168,6 +8167,7 @@
     "插槽中的寶石被等級 # 的 元素軍隊 輔助": "Socketed Gems are Supported by Level # Elemental Army",
     "插槽中的寶石被等級 # 的 元素集中 輔助": "Socketed Gems are Supported by Level # Elemental Focus",
     "插槽中的寶石被等級 # 的 典範 輔助": "Socketed Gems are Supported by Level # Exemplar",
+    "插槽中的寶石被等級 # 的 冰寒之繫 輔助": "Socketed Gems are Supported by Level # Frigid Bond",
     "插槽中的寶石被等級 # 的 分裂 輔助": "Socketed Gems are Supported by Level # Fork",
     "插槽中的寶石被等級 # 的 創傷 輔助": "Socketed Gems are Supported by Level # Trauma",
     "插槽中的寶石被等級 # 的 力量紊亂 輔助": "Socketed Gems are Supported by Level # Kinetic Instability",
