@@ -1,7 +1,7 @@
 {
-  "version": "20260507_020813",
-  "updateTime": "2026-05-07T02:08:13.775450",
-  "count": 16973,
+  "version": "20260508_022513",
+  "updateTime": "2026-05-08T02:25:13.084147",
+  "count": 16975,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -4319,6 +4319,8 @@
     "哀惜之尖嘯精髓": "Shrieking Essence of Sorrow",
     "哀惜之破空精髓": "Deafening Essence of Sorrow",
     "哀慟群集輔助": "Harrowing Throng Support",
+    "品質(前綴):#%": "Quality (Prefix Modifiers): #%",
+    "品質(後綴):#%": "Quality (Suffix Modifiers): #%",
     "品質不會增加物理傷害": "Quality does not increase Physical Damage",
     "品質不會增加防禦": "Quality does not increase Defences",
     "品質套用在怪物群大小，而不是物品數量": "Quality applies to Pack Size instead of Item Quantity",

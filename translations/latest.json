@@ -1,7 +1,7 @@
 {
-  "version": "20260507_020813",
-  "updateTime": "2026-05-07T02:08:13.775450",
-  "count": 17011,
+  "version": "20260508_022513",
+  "updateTime": "2026-05-08T02:25:13.084147",
+  "count": 17013,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -11955,10 +11955,12 @@
     "Quality (Life and Mana Modifiers): #%": "品質（生命和魔力詞綴）：#%",
     "Quality (Pack Size): #%": "品質（怪物群大小）：#%",
     "Quality (Physical and Chaos Damage Modifiers): #%": "品質（物理和混沌傷害詞綴）：#%",
+    "Quality (Prefix Modifiers): #%": "品質(前綴):#%",
     "Quality (Rarity): #%": "品質（稀有度）：#%",
     "Quality (Resistance Modifiers): #%": "品質（抗性詞綴）：#%",
     "Quality (Scarabs): #%": "品質（聖甲蟲）：#%",
     "Quality (Speed Modifiers): #%": "品質（速度詞綴）：#%",
+    "Quality (Suffix Modifiers): #%": "品質(後綴):#%",
     "Quality applies to Pack Size instead of Item Quantity": "品質套用在怪物群大小，而不是物品數量",
     "Quality bonus of your Maps also applies to Rarity of Items found": "你地圖的品質加成同時套用至掉落物品的稀有度",
     "Quality does not increase Defences": "品質不會增加防禦",
