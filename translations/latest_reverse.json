@@ -1,6 +1,6 @@
 {
-  "version": "20260508_022513",
-  "updateTime": "2026-05-08T02:25:13.084147",
+  "version": "20260509_020937",
+  "updateTime": "2026-05-09T02:09:37.034068",
   "count": 16975,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
@@ -7941,7 +7941,6 @@
     "插槽中寶石沒有保留\n你的祝福技能失效": "Socketed Gems have no Reservation\nYour Blessing Skills are Disabled",
     "插槽中寶石消耗和保留生命而非魔力": "Socketed Gems Cost and Reserve Life instead of Mana",
     "插槽中寶石的投射物會分裂": "Projectiles from Socketed Gems Fork",
-    "插槽中寶石被等級 # 的三相爆發輔助": "Socketed Gems are Supported by Level # Prismatic Burst",
     "插槽中寶石被等級 # 的三體輔助": "Socketed Gems are Supported by Level # Trinity",
     "插槽中寶石被等級 # 的傲慢輔助": "Socketed Gems are Supported by Level # Arrogance",
     "插槽中寶石被等級 # 的元素擴散輔助": "Socketed Gems are Supported by Level # Elemental Proliferation",
@@ -8165,6 +8164,7 @@
     "插槽中的寶石有 #% 更多攻擊與施放速度": "Socketed Gems have #% more Attack and Cast Speed",
     "插槽中的寶石減少 #% 魔力消耗": "Socketed Gems have #% reduced Mana Cost",
     "插槽中的寶石獲得等同物理傷害 #% 的額外閃電傷害": "Socketed Gems gain #% of Physical Damage as extra Lightning Damage",
+    "插槽中的寶石被等級 # 的 三相爆發 輔助": "Socketed Gems are Supported by Level # Prismatic Burst",
     "插槽中的寶石被等級 # 的 元素攻擊傷害 輔助": "Socketed Gems are Supported by Level # Elemental Damage with Attacks",
     "插槽中的寶石被等級 # 的 元素軍隊 輔助": "Socketed Gems are Supported by Level # Elemental Army",
     "插槽中的寶石被等級 # 的 元素集中 輔助": "Socketed Gems are Supported by Level # Elemental Focus",
