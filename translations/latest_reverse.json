@@ -1,7 +1,7 @@
 {
-  "version": "20260605_024213",
-  "updateTime": "2026-06-05T02:42:13.867329",
-  "count": 16975,
+  "version": "20260606_022940",
+  "updateTime": "2026-06-06T02:29:40.822619",
+  "count": 16976,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -12003,6 +12003,7 @@
     "當你擊中非傳奇敵人，藥劑獲得 # 充能，每秒不超過 1 次": "Flasks gain # Charges when you hit a Non-Unique Enemy, no more than once per second",
     "當你擊殺一名感電敵人，對附近敵人造成相同的感電效果": "When you Kill a Shocked Enemy, inflict an equivalent Shock on each nearby Enemy",
     "當你擊殺一名點燃敵人，對附近敵人造成相同的點燃效果": "When you Kill an Ignited Enemy, inflict an equivalent Ignite on each nearby Enemy",
+    "當你擊殺中毒的敵人時，使1.5公尺內的敵人中毒": "When you kill a Poisoned Enemy, Enemies within 1.5 metres are Poisoned",
     "當你擊殺敵人時觸發等級 # 的污毒之域": "Trigger Level # Contaminate when you Kill an Enemy",
     "當你擊殺敵人時，有 #% 機率獲得秘能波動": "#% chance to gain Arcane Surge when you Kill an Enemy",
     "當你擊殺敵人時，有 #% 機率觸發等級 1 的鮮血狂怒": "#% chance to Trigger Level 1 Blood Rage when you Kill an Enemy",

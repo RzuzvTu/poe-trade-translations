@@ -1,7 +1,7 @@
 {
-  "version": "20260605_024213",
-  "updateTime": "2026-06-05T02:42:13.867329",
-  "count": 17013,
+  "version": "20260606_022940",
+  "updateTime": "2026-06-06T02:29:40.822619",
+  "count": 17014,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -15852,6 +15852,7 @@
     "When you Kill a Shocked Enemy, inflict an equivalent Shock on each nearby Enemy": "當你擊殺一名感電敵人，對附近敵人造成相同的感電效果",
     "When you Kill an Enemy Cursed with a Non-Aura Hex, become Immune to\nCurses for remaining Hex Duration": "當你擊殺被非光環咒術詛咒的敵人時，咒術剩下的持續時間免疫詛咒",
     "When you Kill an Ignited Enemy, inflict an equivalent Ignite on each nearby Enemy": "當你擊殺一名點燃敵人，對附近敵人造成相同的點燃效果",
+    "When you kill a Poisoned Enemy, Enemies within 1.5 metres are Poisoned": "當你擊殺中毒的敵人時，使1.5公尺內的敵人中毒",
     "When you leave your Banner's Area, recover #% of the Valour consumed for that Banner": "當你離開你的鬥旗光環時，恢復該鬥旗消耗的 #% 勇氣",
     "When you lose Temporal Chains you gain maximum Rage": "當你失去時空鎖鏈時獲得最大層盛怒",
     "While Minions have Energy Shield, their Hits Ignore Monster Elemental Resistances": "召喚物有能量護盾時，他們的擊中無視怪物的元素抗性",
