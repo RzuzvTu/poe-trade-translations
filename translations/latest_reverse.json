@@ -1,7 +1,7 @@
 {
-  "version": "20260819_004637",
-  "updateTime": "2026-08-19T00:46:37.481467",
-  "count": 19293,
+  "version": "20260820_004614",
+  "updateTime": "2026-08-20T00:46:14.649406",
+  "count": 19294,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -12377,6 +12377,7 @@
     "由天賦樹賦予的技能會受到等級 # 的附加冰冷傷害輔助": "Skills granted by your Passive Tree are Supported by level # Added Cold Damage",
     "由天賦樹賦予的技能會受到等級 # 的附加混沌傷害輔助": "Skills granted by your Passive Tree are Supported by level # Added Chaos Damage",
     "由天賦樹賦予的技能會受到等級 # 的附加火焰傷害輔助": "Skills granted by your Passive Tree are Supported by level # Added Fire Damage",
+    "由天賦樹賦予的技能會受到等級 # 的附加閃電傷害輔助": "Skills granted by your Passive Tree are Supported by level # Added Lightning Damage",
     "由天賦樹賦予的技能會受到等級 # 的陷阱充能輔助": "Skills granted by your Passive Tree are Supported by level # Charged Traps",
     "由天賦樹賦予的技能會受到等級 # 的陷阱及地雷傷害輔助": "Skills granted by your Passive Tree are Supported by level # Trap and Mine Damage",
     "由天賦樹賦予的技能會受到等級 # 的陷阱輔助": "Skills granted by your Passive Tree are Supported by level # Trap",

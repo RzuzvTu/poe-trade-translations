@@ -1,7 +1,7 @@
 {
-  "version": "20260819_004637",
-  "updateTime": "2026-08-19T00:46:37.481467",
-  "count": 19351,
+  "version": "20260820_004614",
+  "updateTime": "2026-08-20T00:46:14.649406",
+  "count": 19352,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -15343,6 +15343,7 @@
     "Skills granted by your Passive Tree are Supported by level # Added Chaos Damage": "由天賦樹賦予的技能會受到等級 # 的附加混沌傷害輔助",
     "Skills granted by your Passive Tree are Supported by level # Added Cold Damage": "由天賦樹賦予的技能會受到等級 # 的附加冰冷傷害輔助",
     "Skills granted by your Passive Tree are Supported by level # Added Fire Damage": "由天賦樹賦予的技能會受到等級 # 的附加火焰傷害輔助",
+    "Skills granted by your Passive Tree are Supported by level # Added Lightning Damage": "由天賦樹賦予的技能會受到等級 # 的附加閃電傷害輔助",
     "Skills granted by your Passive Tree are Supported by level # Advanced Traps": "由天賦樹賦予的技能會受到等級 # 的進階陷阱輔助",
     "Skills granted by your Passive Tree are Supported by level # Ancestral Call": "由天賦樹賦予的技能會受到等級 # 的先祖怒嚎輔助",
     "Skills granted by your Passive Tree are Supported by level # Arcane Surge": "由天賦樹賦予的技能會受到等級 # 的秘能波動輔助",
