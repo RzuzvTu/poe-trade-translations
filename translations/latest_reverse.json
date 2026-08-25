@@ -1,7 +1,7 @@
 {
-  "version": "20260824_004937",
-  "updateTime": "2026-08-24T00:49:37.432290",
-  "count": 19317,
+  "version": "20260825_004850",
+  "updateTime": "2026-08-25T00:48:50.723101",
+  "count": 19319,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -17619,10 +17619,12 @@
     "鑲嵌於你的鞋子中的技能會受到等級 # 的聖徒輔助": "Skills Socketed in your Boots are Supported by level # Hallow",
     "鑲嵌於你的鞋子中的技能會受到等級 # 的肉盾輔助": "Skills Socketed in your Boots are Supported by level # Meat Shield",
     "鑲嵌於你的鞋子中的技能會受到等級 # 的能量偷取輔助": "Skills Socketed in your Boots are Supported by level # Energy Leech",
+    "鑲嵌於你的鞋子中的技能會受到等級 # 的腐化輔助": "Skills Socketed in your Boots are Supported by level # Decay",
     "鑲嵌於你的鞋子中的技能會受到等級 # 的致命異常輔助": "Skills Socketed in your Boots are Supported by level # Deadly Ailments",
     "鑲嵌於你的鞋子中的技能會受到等級 # 的致盲輔助": "Skills Socketed in your Boots are Supported by level # Blind",
     "鑲嵌於你的鞋子中的技能會受到等級 # 的虐待輔助": "Skills Socketed in your Boots are Supported by level # Sadism",
     "鑲嵌於你的鞋子中的技能會受到等級 # 的虛空操縱輔助": "Skills Socketed in your Boots are Supported by level # Void Manipulation",
+    "鑲嵌於你的鞋子中的技能會受到等級 # 的詛咒光環輔助": "Skills Socketed in your Boots are Supported by level # Blasphemy",
     "鑲嵌於你的鞋子中的技能會受到等級 # 的詛咒地面輔助": "Skills Socketed in your Boots are Supported by level # Cursed Ground",
     "鑲嵌於你的鞋子中的技能會受到等級 # 的護體輔助": "Skills Socketed in your Boots are Supported by level # Fortify",
     "鑲嵌於你的鞋子中的技能會受到等級 # 的豢養狂熱輔助": "Skills Socketed in your Boots are Supported by level # Feeding Frenzy",
