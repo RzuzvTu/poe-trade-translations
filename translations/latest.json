@@ -1,7 +1,7 @@
 {
-  "version": "20260825_004850",
-  "updateTime": "2026-08-25T00:48:50.723101",
-  "count": 19377,
+  "version": "20260826_005047",
+  "updateTime": "2026-08-26T00:50:47.528635",
+  "count": 19379,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -2740,6 +2740,8 @@
     "+#% Chaos Resistance against Damage Over Time": "對持續傷害有 +#% 混沌抗性",
     "+#% Critical Strike Chance while at maximum Power Charges": "當獲得最大暴擊球時 +#% 暴擊率",
     "+#% Critical Strike Multiplier while a Rare or Unique Enemy is Nearby": "當附近有稀有或傳奇敵人時，+#% 暴擊加成",
+    "+#% Global Critical Strike Chance": "+#% 全域暴擊率",
+    "+#% Global Critical Strike Multiplier": "+#% 全域暴擊傷害加成",
     "+#% Global Critical Strike Multiplier while you have a Frenzy Charge": "你有狂怒球時 +#% 全域暴擊加成",
     "+#% Global Critical Strike Multiplier while you have no Frenzy Charges": "當你沒有狂怒球時，+#% 全域暴擊加成",
     "+#% Holy Sweep Knockback Chance": "+#%神聖橫掃擊退機率",
