@@ -1,7 +1,7 @@
 {
-  "version": "20260826_005047",
-  "updateTime": "2026-08-26T00:50:47.528635",
-  "count": 19321,
+  "version": "20260827_062551",
+  "updateTime": "2026-08-27T06:25:51.365389",
+  "count": 19322,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -5028,6 +5028,7 @@
     "在巔峰頭目面前時，獲得 #% 物理傷害的閃電傷害": "While a Pinnacle Atlas Boss is in your Presence, Gain #% of Physical Damage as Extra Lightning Damage",
     "在巔峰頭目面前時，生命值所受的 #% 傷害由魔力扣除": "While a Pinnacle Atlas Boss is in your Presence, #% of Damage is taken from Mana before Life",
     "在巔峰頭目面前時，移動時留下易碎地面，持續 # 秒": "While a Pinnacle Atlas Boss is in your Presence, Drops Brittle Ground while moving, lasting # seconds",
+    "在巔峰頭目面前時，移動時留下焦灼地面，持續 # 秒": "While a Pinnacle Atlas Boss is in your Presence, Drops Scorched Ground while moving, lasting # seconds",
     "在巔峰頭目面前時，竭盡攻擊增加 #% 傷害": "While a Pinnacle Atlas Boss is in your Presence, Exerted Attacks deal #% increased Damage",
     "在巔峰頭目面前時，紀律增加 #% 光環效果": "While a Pinnacle Atlas Boss is in your Presence, Discipline has #% increased Aura Effect",
     "在巔峰頭目面前時，純淨之捷增加 #% 增益效果": "While a Pinnacle Atlas Boss is in your Presence, Herald of Purity has #% increased Buff Effect",

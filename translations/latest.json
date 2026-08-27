@@ -1,7 +1,7 @@
 {
-  "version": "20260826_005047",
-  "updateTime": "2026-08-26T00:50:47.528635",
-  "count": 19379,
+  "version": "20260827_062551",
+  "updateTime": "2026-08-27T06:25:51.365389",
+  "count": 19380,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -18374,6 +18374,7 @@
     "While a Pinnacle Atlas Boss is in your Presence, Determination has #% increased Aura Effect": "在巔峰頭目面前時，堅定增加 #% 光環效果",
     "While a Pinnacle Atlas Boss is in your Presence, Discipline has #% increased Aura Effect": "在巔峰頭目面前時，紀律增加 #% 光環效果",
     "While a Pinnacle Atlas Boss is in your Presence, Drops Brittle Ground while moving, lasting # seconds": "在巔峰頭目面前時，移動時留下易碎地面，持續 # 秒",
+    "While a Pinnacle Atlas Boss is in your Presence, Drops Scorched Ground while moving, lasting # seconds": "在巔峰頭目面前時，移動時留下焦灼地面，持續 # 秒",
     "While a Pinnacle Atlas Boss is in your Presence, Enduring Cry has #% increased Cooldown Recovery Rate": "在巔峰頭目面前時，堅決戰吼增加 #% 冷卻時間恢復率",
     "While a Pinnacle Atlas Boss is in your Presence, Enemies you've Hit Recently have #% reduced Life Regeneration rate": "在巔峰頭目面前時，近期你擊中的敵人減少 #% 生命恢復率",
     "While a Pinnacle Atlas Boss is in your Presence, Exerted Attacks deal #% increased Damage": "在巔峰頭目面前時，竭盡攻擊增加 #% 傷害",
