@@ -1,7 +1,7 @@
 {
-  "version": "20260827_062551",
-  "updateTime": "2026-08-27T06:25:51.365389",
-  "count": 19322,
+  "version": "20260828_081700",
+  "updateTime": "2026-08-28T08:17:00.632441",
+  "count": 19323,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -12258,6 +12258,7 @@
     "由天賦樹賦予的技能會受到等級 # 的先祖怒嚎輔助": "Skills granted by your Passive Tree are Supported by level # Ancestral Call",
     "由天賦樹賦予的技能會受到等級 # 的典範輔助": "Skills granted by your Passive Tree are Supported by level # Exemplar",
     "由天賦樹賦予的技能會受到等級 # 的冰冷穿透輔助": "Skills granted by your Passive Tree are Supported by level # Cold Penetration",
+    "由天賦樹賦予的技能會受到等級 # 的冰寒之繫輔助": "Skills granted by your Passive Tree are Supported by level # Frigid Bond",
     "由天賦樹賦予的技能會受到等級 # 的凋零之觸輔助": "Skills granted by your Passive Tree are Supported by level # Withering Touch",
     "由天賦樹賦予的技能會受到等級 # 的創傷輔助": "Skills granted by your Passive Tree are Supported by level # Trauma",
     "由天賦樹賦予的技能會受到等級 # 的受傷時施放輔助": "Skills granted by your Passive Tree are Supported by level # Cast when Damage Taken",

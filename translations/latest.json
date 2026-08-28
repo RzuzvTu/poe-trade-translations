@@ -1,7 +1,7 @@
 {
-  "version": "20260827_062551",
-  "updateTime": "2026-08-27T06:25:51.365389",
-  "count": 19380,
+  "version": "20260828_081700",
+  "updateTime": "2026-08-28T08:17:00.632441",
+  "count": 19381,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -15431,6 +15431,7 @@
     "Skills granted by your Passive Tree are Supported by level # Fork": "由天賦樹賦予的技能會受到等級 # 的高階分裂輔助",
     "Skills granted by your Passive Tree are Supported by level # Fortify": "由天賦樹賦予的技能會受到等級 # 的護體輔助",
     "Skills granted by your Passive Tree are Supported by level # Fresh Meat": "由天賦樹賦予的技能會受到等級 # 的鮮肉輔助",
+    "Skills granted by your Passive Tree are Supported by level # Frigid Bond": "由天賦樹賦予的技能會受到等級 # 的冰寒之繫輔助",
     "Skills granted by your Passive Tree are Supported by level # Generosity": "由天賦樹賦予的技能會受到等級 # 的和善輔助",
     "Skills granted by your Passive Tree are Supported by level # Greater Multiple Projectiles": "由天賦樹賦予的技能會受到等級 # 的高階多重投射輔助",
     "Skills granted by your Passive Tree are Supported by level # Greater Volley": "由天賦樹賦予的技能會受到等級 # 的高階齊射輔助",
