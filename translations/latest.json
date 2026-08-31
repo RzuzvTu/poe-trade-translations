@@ -1,7 +1,7 @@
 {
-  "version": "20260830_024832",
-  "updateTime": "2026-08-30T02:48:32.781300",
-  "count": 19383,
+  "version": "20260831_024132",
+  "updateTime": "2026-08-31T02:41:32.653537",
+  "count": 19384,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -15482,6 +15482,7 @@
     "Skills granted by your Passive Tree are Supported by level # Multiple Traps": "由天賦樹賦予的技能會受到等級 # 的多重陷阱輔助",
     "Skills granted by your Passive Tree are Supported by level # Multistrike": "由天賦樹賦予的技能會受到等級 # 的多重打擊輔助",
     "Skills granted by your Passive Tree are Supported by level # Nightblade": "由天賦樹賦予的技能會受到等級 # 的夜刃輔助",
+    "Skills granted by your Passive Tree are Supported by level # Overcharge": "由天賦樹賦予的技能會受到等級 # 的超負荷輔助",
     "Skills granted by your Passive Tree are Supported by level # Overexertion": "由天賦樹賦予的技能會受到等級 # 的竭盡全力輔助",
     "Skills granted by your Passive Tree are Supported by level # Physical to Lightning": "由天賦樹賦予的技能會受到等級 # 的物理轉閃電輔助",
     "Skills granted by your Passive Tree are Supported by level # Pierce": "由天賦樹賦予的技能會受到等級 # 的穿透輔助",

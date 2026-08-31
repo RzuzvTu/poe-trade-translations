@@ -1,7 +1,7 @@
 {
-  "version": "20260830_024832",
-  "updateTime": "2026-08-30T02:48:32.781300",
-  "count": 19325,
+  "version": "20260831_024132",
+  "updateTime": "2026-08-31T02:41:32.653537",
+  "count": 19326,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -12374,6 +12374,7 @@
     "由天賦樹賦予的技能會受到等級 # 的詛咒地面輔助": "Skills granted by your Passive Tree are Supported by level # Cursed Ground",
     "由天賦樹賦予的技能會受到等級 # 的護體輔助": "Skills granted by your Passive Tree are Supported by level # Fortify",
     "由天賦樹賦予的技能會受到等級 # 的豢養狂熱輔助": "Skills granted by your Passive Tree are Supported by level # Feeding Frenzy",
+    "由天賦樹賦予的技能會受到等級 # 的超負荷輔助": "Skills granted by your Passive Tree are Supported by level # Overcharge",
     "由天賦樹賦予的技能會受到等級 # 的迅速烙印輔助": "Skills granted by your Passive Tree are Supported by level # Swiftbrand",
     "由天賦樹賦予的技能會受到等級 # 的迅速組裝輔助": "Skills granted by your Passive Tree are Supported by level # Swift Assembly",
     "由天賦樹賦予的技能會受到等級 # 的近戰傷害擴散輔助": "Skills granted by your Passive Tree are Supported by level # Melee Splash",
