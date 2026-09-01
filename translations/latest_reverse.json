@@ -1,6 +1,6 @@
 {
-  "version": "20260831_024132",
-  "updateTime": "2026-08-31T02:41:32.653537",
+  "version": "20260901_025351",
+  "updateTime": "2026-09-01T02:53:51.173097",
   "count": 19326,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
@@ -14425,7 +14425,7 @@
     "若禁忌烈焰上有符合的詞綴，配置 大自然的腎上腺素": "Allocates Nature's Adrenaline if you have the matching modifier on Forbidden Flame",
     "若禁忌烈焰上有符合的詞綴，配置 奉獻女魔": "Allocates Mistress of Sacrifice if you have the matching modifier on Forbidden Flame",
     "若禁忌烈焰上有符合的詞綴，配置 學習季節": "Allocates Lesson of the Seasons if you have the matching modifier on Forbidden Flame",
-    "若禁忌烈焰上有符合的詞綴，配置 守護者": "Allocates Warden if you have the matching modifier on Forbidden Flame",
+    "若禁忌烈焰上有符合的詞綴，配置 守護者": "Allocates Guardian if you have the matching modifier on Forbidden Flame",
     "若禁忌烈焰上有符合的詞綴，配置 完美犯罪": "Allocates Perfect Crime if you have the matching modifier on Forbidden Flame",
     "若禁忌烈焰上有符合的詞綴，配置 寒冬雕塑者": "Allocates Shaper of Winter if you have the matching modifier on Forbidden Flame",
     "若禁忌烈焰上有符合的詞綴，配置 寒凜喚醒": "Allocates Frigid Wake if you have the matching modifier on Forbidden Flame",
