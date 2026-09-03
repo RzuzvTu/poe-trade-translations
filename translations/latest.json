@@ -1,7 +1,7 @@
 {
-  "version": "20260902_021351",
-  "updateTime": "2026-09-02T02:13:51.627488",
-  "count": 19384,
+  "version": "20260903_022114",
+  "updateTime": "2026-09-03T02:21:14.349290",
+  "count": 19385,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -1920,6 +1920,7 @@
     "#% more Rogue's Marker value of primary Heist Target": "主要劫盜目標有 #% 更多盜賊之印",
     "#% more Unique Items found from Beyond Demons in your Maps\nthat are followers of Ghorr": "你地圖中戈沃的信徒超越惡魔，掉落 #% 更多傳奇物品",
     "#% more Ward during Effect": "效果持續時間內，有 #% 更多保護",
+    "#% of Armour also applies to Chaos Damage taken from Hits": "#% 護甲同時套用至承受擊中的混沌傷害",
     "#% of Armour also applies to Lightning Damage taken from Hits": "#% 護甲同時套用至承受擊中的閃電傷害",
     "#% of Armour applies to Fire, Cold and Lightning Damage taken from Hits": "#% 護甲套用至承受來自擊中的火焰、冰冷和閃電傷害",
     "#% of Armour applies to Fire, Cold and Lightning Damage taken from Hits if you have Blocked Recently": "若你近期有格擋，#% 護甲套用至承受來自擊中的火焰、冰冷和閃電傷害",
@@ -15785,7 +15786,7 @@
     "Socketed Gems are Supported by Level # Life Leech": "插槽中的寶石被等級 # 的 生命偷取 輔助",
     "Socketed Gems are Supported by Level # Lifetap": "插槽中的寶石被等級 # 的活栓輔助",
     "Socketed Gems are Supported by Level # Lightning Penetration": "插槽中寶石被等級 # 的閃電穿透輔助",
-    "Socketed Gems are Supported by Level # Living Lightning": "插槽中的寶石被等級 # 的 活體閃電 輔助",
+    "Socketed Gems are Supported by Level # Living Lightning": "插槽中寶石被等級 # 的活躍閃電輔助",
     "Socketed Gems are Supported by Level # Locus Mine": "插槽中的寶石被等級 # 的 定位地雷 輔助",
     "Socketed Gems are Supported by Level # Maim": "插槽中寶石被等級 # 的癱瘓輔助",
     "Socketed Gems are Supported by Level # Mana Leech": "插槽中寶石被等級 # 的魔力偷取輔助",
