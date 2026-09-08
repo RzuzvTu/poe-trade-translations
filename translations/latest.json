@@ -1,7 +1,7 @@
 {
-  "version": "20260907_020946",
-  "updateTime": "2026-09-07T02:09:46.635198",
-  "count": 19384,
+  "version": "20260908_022149",
+  "updateTime": "2026-09-08T02:21:49.107085",
+  "count": 19385,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -15458,6 +15458,7 @@
     "Skills granted by your Passive Tree are Supported by level # Item Rarity": "由天賦樹賦予的技能會受到等級 # 的物品稀有度增幅輔助",
     "Skills granted by your Passive Tree are Supported by level # Knockback": "由天賦樹賦予的技能會受到等級 # 的擊退輔助",
     "Skills granted by your Passive Tree are Supported by level # Less Duration": "由天賦樹賦予的技能會受到等級 # 的持續時間縮短輔助",
+    "Skills granted by your Passive Tree are Supported by level # Life Gain on Hit": "由天賦樹賦予的技能會受到等級 # 的擊中生命回復輔助",
     "Skills granted by your Passive Tree are Supported by level # Life Leech": "由天賦樹賦予的技能會受到等級 # 的生命偷取輔助",
     "Skills granted by your Passive Tree are Supported by level # Lifetap": "由天賦樹賦予的技能會受到等級 # 的活栓輔助",
     "Skills granted by your Passive Tree are Supported by level # Lightning Penetration": "由天賦樹賦予的技能會受到等級 # 的閃電穿透輔助",
