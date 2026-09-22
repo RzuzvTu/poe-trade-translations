@@ -1,7 +1,7 @@
 {
-  "version": "20260921_023830",
-  "updateTime": "2026-09-21T02:38:30.775304",
-  "count": 19327,
+  "version": "20260922_024025",
+  "updateTime": "2026-09-22T02:40:25.687328",
+  "count": 19328,
   "translations": {
     "# 位部屬宣誓服從於安賽娜絲的血脈": "Denoted service of # dekhara in the akhara of Asenath",
     "# 位部屬宣誓服從於巴爾巴拉的血脈": "Denoted service of # dekhara in the akhara of Balbala",
@@ -8548,6 +8548,7 @@
     "插槽中的寶石被等級#的保護破碎時施放輔助": "Socketed Gems are Supported by Level # Cast on Ward Break",
     "插槽中的寶石被等級#的冷卻恢復輔助": "Socketed Gems are Supported by Level # Cooldown Recovery",
     "插槽中的寶石被等級#的多重投射物輔助": "Socketed Gems are Supported by Level # Multiple Projectiles",
+    "插槽中的寶石被等級#的弱者撲殺輔助": "Socketed Gems are Supported by Level # Cull the Weak",
     "插槽中的寶石被等級#的聖潔守望輔助": "Socketed Gems are Supported by Level # Divine Sentinel",
     "插槽中的寶石被等級#的規則逆反輔助": "Socketed Gems are Supported by Level # Invert the Rules",
     "插槽中的寶石被等級#的高階多重打擊輔助": "Socketed Gems are Supported by Level # Greater Multistrike",

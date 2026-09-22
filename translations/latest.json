@@ -1,7 +1,7 @@
 {
-  "version": "20260921_023830",
-  "updateTime": "2026-09-21T02:38:30.775304",
-  "count": 19385,
+  "version": "20260922_024025",
+  "updateTime": "2026-09-22T02:40:25.687328",
+  "count": 19386,
   "translations": {
     "\"O' Eternal\"": "《永恆》",
     "\"The Kiss Goodnight\"": "《晚安吻》",
@@ -15710,6 +15710,7 @@
     "Socketed Gems are Supported by Level # Corrupting Cry": "插槽中的寶石被等級 # 的 汙染戰吼 輔助",
     "Socketed Gems are Supported by Level # Critical Strike Affliction": "插槽中的寶石被等級 # 的 暴擊苦痛 輔助",
     "Socketed Gems are Supported by Level # Cruelty": "插槽中的寶石被等級 # 的殘酷輔助",
+    "Socketed Gems are Supported by Level # Cull the Weak": "插槽中的寶石被等級#的弱者撲殺輔助",
     "Socketed Gems are Supported by Level # Culling Strike": "插槽中寶石被等級 # 的撲殺輔助",
     "Socketed Gems are Supported by Level # Cursed Ground": "插槽中的寶石被等級 # 的 詛咒地面 輔助",
     "Socketed Gems are Supported by Level # Damage On Full Life": "插槽中寶石被等級 # 的滿血傷害輔助",
